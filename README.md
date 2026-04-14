@@ -47,4 +47,4 @@ https://plume.pengzhanbo.cn/guide/sidebar/#%E6%A8%A1%E5%9D%97%E5%8C%96%E9%85%8D%
 
 
 
-https://www.shougan.net/docs/knowledge/subscribe-guide/
+https://www.shougan.net/docs/knowledge/subscribe-guide/ 
