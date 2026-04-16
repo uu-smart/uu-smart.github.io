@@ -5,11 +5,12 @@ config:
   -
     type: hero
     full: true
-    forceDark: false
+    forceDark: true
+    effect: lightning
     hero:
-      name: 文档中心
-      tagline: Next One
-      text: 一个简约的，零碎小记的技术文档
+      name: Theme Plume
+      tagline: VuePress Next Theme
+      text: 一个简约的，功能丰富的 vuepress 文档&博客 主题
       actions:
         -
           theme: brand
@@ -18,5 +19,5 @@ config:
         -
           theme: alt
           text: Github →
-          link: https://github.com/uu-smart
+          link: https://github.com/pengzhanbo/vuepress-theme-plume
 ---

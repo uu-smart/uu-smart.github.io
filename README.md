@@ -1,6 +1,6 @@
 # vb-docs
 
-The Site is generated using [bbbbbb](https://vuepress.vuejs.org/) and [vvvvv](https://github.com/pengzhanbo/vuepress-theme-plume)
+The Site is generated using [vuepress](https://vuepress.vuejs.org/) and [vuepress-theme-plume](https://github.com/pengzhanbo/vuepress-theme-plume)
 
 ## Install
 
@@ -40,11 +40,3 @@ To customize a domain name, please refer to [Github Pages](https://docs.github.c
 
 - [vuepress](https://vuepress.vuejs.org/)
 - [vuepress-theme-plume](https://theme-plume.vuejs.press/)
-
-
-
-https://plume.pengzhanbo.cn/guide/sidebar/#%E6%A8%A1%E5%9D%97%E5%8C%96%E9%85%8D%E7%BD%AE%E6%96%B9%E6%A1%88
-
-
-
-https://www.shougan.net/docs/knowledge/subscribe-guide/ 
