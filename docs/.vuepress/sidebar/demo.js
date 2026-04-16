@@ -10,7 +10,7 @@ export default [
         items: ['foo', 'bar'],
       },
       {
-        text: 'Markdown 示例',
+        text: 'Markdown 示例89',
         items: ['markdown'],
       },
     ],
